@@ -5,7 +5,7 @@
 
 前台
 地址：http://localhost/index
-账号：user  密码：123456
+账号：user  密码：root
 
 后台
 地址：http://localhost/login
