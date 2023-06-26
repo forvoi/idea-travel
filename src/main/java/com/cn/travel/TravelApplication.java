@@ -10,6 +10,7 @@ import org.springframework.boot.web.support.SpringBootServletInitializer;
 @SpringBootApplication(scanBasePackages ={"com.cn.travel.common","com.cn.travel.*.*.service.imp","com.cn.travel.*.*.provider","com.cn.travel.web.*"})//IOC容器依赖注入
 @MapperScan(basePackages ="com.cn.travel.*.*.dao")//扫描所有Mapper映射接口
 public class TravelApplication extends SpringBootServletInitializer {
+	//添加文本
 
 	@Override//开发环境启动函数
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
