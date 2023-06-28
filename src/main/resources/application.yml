@@ -1,6 +1,6 @@
 ﻿# Server settings
 server:
-    port: 80
+    port: 8080
     address: 0.0.0.0
 # SPRING PROFILES
 spring:
