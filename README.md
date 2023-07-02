@@ -5,7 +5,7 @@ mybatis、layui、Maven
 
 前台
 地址：http://localhost:8080/index
-账号：user  密码：root
+账号：user  密码：123456
 
 后台
 地址：http://localhost:8080/login
