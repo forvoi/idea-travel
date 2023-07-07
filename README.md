@@ -1,7 +1,7 @@
 # travel
 基于SpringBoot的旅游信息管理系统
 mybatis、layui、Maven
-项目分前后台
+
 
 前台
 地址：http://localhost:8080/index
